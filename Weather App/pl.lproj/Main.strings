@@ -1,0 +1,15 @@
+
+/* Class = "UILabel"; text = "Miasto"; ObjectID = "Qvm-jG-Ggm"; */
+"Qvm-jG-Ggm.text" = "Miasto";
+
+/* Class = "UIButton"; normalTitle = "Moja lokalizacja"; ObjectID = "U4c-uW-HfT"; */
+"U4c-uW-HfT.normalTitle" = "Moja lokalizacja";
+
+/* Class = "UIButton"; normalTitle = "Zmień miasto"; ObjectID = "Vc6-Q0-vRI"; */
+"Vc6-Q0-vRI.normalTitle" = "Zmień miasto";
+
+/* Class = "UILabel"; text = "Temperatura"; ObjectID = "oYY-Ye-loH"; */
+"oYY-Ye-loH.text" = "Temperatura";
+
+/* Class = "UILabel"; text = "Opis"; ObjectID = "psU-ZY-n9E"; */
+"psU-ZY-n9E.text" = "Opis";

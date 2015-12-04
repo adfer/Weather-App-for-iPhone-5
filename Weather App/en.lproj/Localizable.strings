@@ -1,0 +1,13 @@
+/* 
+  Localizable.strings
+  Weather App
+
+  Created by Adrian Ferenc on 29.11.2015.
+  Copyright © 2015 Adrian Ferenc. All rights reserved.
+*/
+
+"PICK_CITY_NAME" = "Insert city name";
+"PICK_CITY_ALERT_CITY_TITLE" = "City";
+"CITY_NAME_PLACEHOLDER" = "City name";
+"CANCEL" = "Cancel";
+"OK" = "OK";
